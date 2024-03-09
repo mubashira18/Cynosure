@@ -8,9 +8,7 @@ import { Join } from "./pages/Join";
 function App() {
   return (
     <div className="App">
-      <header>
-        
-      </header>
+      <header></header>
 
       <Routes>
         <Route path="/" element={<Home />} />
